@@ -1,0 +1,43 @@
+Git stash y git stash pop
+https://foroayuda.es/como-deshabilitar-la-rotacion-en-react-native/
+Shadows generator
+https://ethercreative.github.io/react-native-shadow-generator/
+<TouchableOpacity
+    activeOpacity={ .7 }
+    >
+
+método startsWith('caracter') -> para saber si una variable comienza con algún caracter en especifico.
+
+sacar el boton de menú:
+navigation.setOptions({
+            headerLeft: () => (
+                <Button
+                    title='menu'
+                    onPress={ () => navigation.toggleDrawer() }
+                />
+            )
+
+React native snap carousel:
+https://github.com/meliorence/react-native-snap-carousel
+
+Iconos: 
+https://github.com/oblador/react-native-vector-icons
+
+añadir a android/aoo/build.gradle :
+
+project.ext.vectoricons = [
+    iconFontNames: [ 'Ionicons.ttf'] // Name of the font files you want to copy
+]
+apply from: "../../node_modules/react-native-vector-icons/fonts.gradle"
+
+
+librería para formato de número
+npm install currency-formatter --save
+
+Librería para gradiantes
+https://github.com/react-native-linear-gradient/react-native-linear-gradient
+
+Librería para extraer los colores de una imagen
+https://github.com/osamaqarem/react-native-image-colors
+
+Markdown link: https://markdown.es/sintaxis-markdown/
