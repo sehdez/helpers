@@ -40,4 +40,4 @@ https://github.com/react-native-linear-gradient/react-native-linear-gradient
 Librería para extraer los colores de una imagen
 https://github.com/osamaqarem/react-native-image-colors
 
-Markdown link: https://markdown.es/sintaxis-markdown/
+Markdown link: https://markdown.es/sintaxis-markdown/ 
